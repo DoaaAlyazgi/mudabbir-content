@@ -1,0 +1,23 @@
+[
+  {
+    "id": "gas",
+    "name_ar": "غاز",
+    "name_en": "Gas",
+    "icon_name": "local_fire_department",
+    "sort_order": 1
+  },
+  {
+    "id": "water",
+    "name_ar": "ماء",
+    "name_en": "Water",
+    "icon_name": "water_drop",
+    "sort_order": 2
+  },
+  {
+    "id": "electricity",
+    "name_ar": "كهرباء",
+    "name_en": "Electricity",
+    "icon_name": "bolt",
+    "sort_order": 3
+  }
+]

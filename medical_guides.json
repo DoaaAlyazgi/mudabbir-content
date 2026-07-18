@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "title_ar": "التعامل مع جرح نازف",
+    "title_en": "Handling a bleeding wound",
+    "symptoms_ar": "نزيف مستمر من جرح مفتوح",
+    "symptoms_en": "Continuous bleeding from an open wound",
+    "steps_ar": "1. اضغطي على الجرح بقطعة قماش نظيفة.\n2. ارفعي الطرف المصاب لأعلى إن أمكن.\n3. لا تزيلي القماش حتى لو تشبّع بالدم، أضيفي طبقة فوقها.",
+    "steps_en": "1. Press firmly on the wound with a clean cloth.\n2. Raise the injured limb if possible.\n3. Do not remove the cloth even if soaked; add another layer on top.",
+    "severity_level": "high",
+    "requires_immediate_help": true
+  }
+]

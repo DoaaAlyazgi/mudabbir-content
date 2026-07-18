@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "category_id": "gas",
+    "title_ar": "بديل الطهي بدون غاز",
+    "title_en": "Cooking alternative without gas",
+    "content_ar": "استخدام موقد الحطب أو الفحم في مكان جيد التهوية بعيداً عن المواد القابلة للاشتعال.",
+    "content_en": "Use a wood or charcoal stove in a well-ventilated area, away from flammable materials.",
+    "priority": 1,
+    "source_note": null,
+    "last_updated": "2026-07-17T00:00:00Z"
+  },
+  {
+    "id": 2,
+    "category_id": "water",
+    "title_ar": "تعقيم المياه للشرب",
+    "title_en": "Purifying water for drinking",
+    "content_ar": "غلي الماء لمدة دقيقة كاملة، أو استخدام أقراص تعقيم المياه إن توفرت.",
+    "content_en": "Boil water for a full minute, or use water purification tablets if available.",
+    "priority": 1,
+    "source_note": null,
+    "last_updated": "2026-07-17T00:00:00Z"
+  },
+  {
+    "id": 3,
+    "category_id": "electricity",
+    "title_ar": "شحن الأجهزة بدون كهرباء",
+    "title_en": "Charging devices without electricity",
+    "content_ar": "استخدام بطاريات شمسية محمولة، أو نقاط الشحن الجماعية المتوفرة في المراكز القريبة.",
+    "content_en": "Use portable solar power banks, or shared charging points available at nearby centers.",
+    "priority": 1,
+    "source_note": null,
+    "last_updated": "2026-07-17T00:00:00Z"
+  }
+]
