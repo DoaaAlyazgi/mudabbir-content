@@ -1,1 +1,80 @@
-
+[
+  {
+    "id": 1,
+    "name_ar": "د. أحمد الشوا",
+    "name_en": "Dr. Ahmad Al-Shawa",
+    "specialty_ar": "طب أطفال",
+    "specialty_en": "Pediatrics",
+    "address_ar": "شارع عمر المختار، غزة",
+    "address_en": "Omar Al-Mukhtar St, Gaza City",
+    "phone": "0599000001",
+    "latitude": 31.5017,
+    "longitude": 34.4668,
+    "last_updated": "2026-07-20T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "name_ar": "د. منى أبو ريدة",
+    "name_en": "Dr. Mona Abu Rida",
+    "specialty_ar": "نساء وتوليد",
+    "specialty_en": "Obstetrics & Gynecology",
+    "address_ar": "شارع الوحدة، غزة",
+    "address_en": "Al-Wahda St, Gaza City",
+    "phone": "0599000002",
+    "latitude": 31.5150,
+    "longitude": 34.4550,
+    "last_updated": "2026-07-20T10:00:00Z"
+  },
+  {
+    "id": 3,
+    "name_ar": "د. خالد النجار",
+    "name_en": "Dr. Khaled Al-Najjar",
+    "specialty_ar": "طب عام وطوارئ",
+    "specialty_en": "General Medicine & Emergency",
+    "address_ar": "مخيم الشاطئ، غزة",
+    "address_en": "Al-Shati Camp, Gaza City",
+    "phone": "0599000003",
+    "latitude": 31.5280,
+    "longitude": 34.4420,
+    "last_updated": "2026-07-20T10:00:00Z"
+  },
+  {
+    "id": 4,
+    "name_ar": "د. سامية حرب",
+    "name_en": "Dr. Samia Harb",
+    "specialty_ar": "جراحة عامة",
+    "specialty_en": "General Surgery",
+    "address_ar": "شارع صلاح الدين، خان يونس",
+    "address_en": "Salah Al-Din St, Khan Younis",
+    "phone": "0599000004",
+    "latitude": 31.3469,
+    "longitude": 34.3029,
+    "last_updated": "2026-07-20T10:00:00Z"
+  },
+  {
+    "id": 5,
+    "name_ar": "د. يوسف بركة",
+    "name_en": "Dr. Youssef Baraka",
+    "specialty_ar": "أمراض باطنية",
+    "specialty_en": "Internal Medicine",
+    "address_ar": "شارع رفح الرئيسي، رفح",
+    "address_en": "Rafah Main St, Rafah",
+    "phone": "0599000005",
+    "latitude": 31.2980,
+    "longitude": 34.2450,
+    "last_updated": "2026-07-20T10:00:00Z"
+  },
+  {
+    "id": 6,
+    "name_ar": "د. رنا العطار",
+    "name_en": "Dr. Rana Al-Attar",
+    "specialty_ar": "طب أسنان",
+    "specialty_en": "Dentistry",
+    "address_ar": "شارع النصر، دير البلح",
+    "address_en": "Al-Nasr St, Deir Al-Balah",
+    "phone": "0599000006",
+    "latitude": 31.4180,
+    "longitude": 34.3520,
+    "last_updated": "2026-07-20T10:00:00Z"
+  }
+]
