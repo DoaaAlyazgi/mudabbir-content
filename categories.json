@@ -1,91 +1,55 @@
 [
   {
     "id": "gas",
-    "name_ar": "غاز",
-    "name_en": "Gas",
+    "name_ar": "الغاز والوقود",
+    "name_en": "Gas & Fuel",
     "icon_name": "local_fire_department",
     "sort_order": 1,
     "status": "available",
-    "status_updated_at": "2026-07-20T14:30:00Z"
-  },
-  {
-    "id": "electricity",
-    "name_ar": "كهرباء",
-    "name_en": "Electricity",
-    "icon_name": "bolt",
-    "sort_order": 2,
-    "status": "unavailable",
-    "status_updated_at": "2026-07-20T13:15:00Z"
-  },
-  {
-    "id": "water",
-    "name_ar": "ماء",
-    "name_en": "Water",
-    "icon_name": "water_drop",
-    "sort_order": 3,
-    "status": "partial",
-    "status_updated_at": "2026-07-20T12:00:00Z"
+    "status_updated_at": "2026-07-21T14:30:00Z"
   },
   {
     "id": "health",
-    "name_ar": "صحة",
+    "name_ar": "الصحة",
     "name_en": "Health",
     "icon_name": "favorite",
-    "sort_order": 4,
-    "status": null,
-    "status_updated_at": null
+    "sort_order": 2,
+    "status": "unavailable",
+    "status_updated_at": "2026-07-21T13:45:00Z"
   },
   {
-    "id": "internet",
-    "name_ar": "إنترنت واتصالات",
-    "name_en": "Internet & Connectivity",
-    "icon_name": "wifi",
+    "id": "water",
+    "name_ar": "المياه والخدمات",
+    "name_en": "Water & Services",
+    "icon_name": "water_drop",
+    "sort_order": 3,
+    "status": "partial",
+    "status_updated_at": "2026-07-21T12:00:00Z"
+  },
+  {
+    "id": "electricity",
+    "name_ar": "الكهرباء والشحن",
+    "name_en": "Electricity & Charging",
+    "icon_name": "bolt",
+    "sort_order": 4,
+    "status": "available",
+    "status_updated_at": "2026-07-21T15:00:00Z"
+  },
+  {
+    "id": "education",
+    "name_ar": "التعليم",
+    "name_en": "Education",
+    "icon_name": "school",
     "sort_order": 5,
     "status": null,
     "status_updated_at": null
   },
   {
-    "id": "transport",
-    "name_ar": "مواصلات",
-    "name_en": "Transport",
-    "icon_name": "directions_bus",
+    "id": "daily_needs",
+    "name_ar": "الاحتياجات اليومية",
+    "name_en": "Daily Needs",
+    "icon_name": "shopping_cart",
     "sort_order": 6,
-    "status": null,
-    "status_updated_at": null
-  },
-  {
-    "id": "cooking_fuel",
-    "name_ar": "طبخ بدون غاز",
-    "name_en": "Cooking Without Gas",
-    "icon_name": "outdoor_grill",
-    "sort_order": 7,
-    "status": null,
-    "status_updated_at": null
-  },
-  {
-    "id": "cash",
-    "name_ar": "سحب أموال ونقد",
-    "name_en": "Cash & Withdrawals",
-    "icon_name": "payments",
-    "sort_order": 8,
-    "status": null,
-    "status_updated_at": null
-  },
-  {
-    "id": "education",
-    "name_ar": "مصادر تعليمية",
-    "name_en": "Study Resources",
-    "icon_name": "menu_book",
-    "sort_order": 9,
-    "status": null,
-    "status_updated_at": null
-  },
-  {
-    "id": "psychological_support",
-    "name_ar": "دعم نفسي",
-    "name_en": "Psychological Support",
-    "icon_name": "self_improvement",
-    "sort_order": 10,
     "status": null,
     "status_updated_at": null
   }
